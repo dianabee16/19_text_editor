@@ -11,7 +11,7 @@
 ## [Description](#table-of-contents)
 This is a text editor that runs in the browser. This is a single-page application that meets the PWA criteria, and also function offline.
 
-![demo]()
+![demo](./Screenshot%202023-09-25%20at%207.03.48%20PM.png)
 
 ## [Installation](#table-of-contents)
 For installing the application you will need to clone the repo into your local machine. To get started you can run `npm install` in the integrated terminal to install packages. 
@@ -26,4 +26,4 @@ If you have any questions about the functionality of the application or installa
 N/A
 
 ## [Links](#table-of-contents)
-[Heroku - Deployed App]()
+[Heroku - Deployed App](https://frozen-bayou-88019-04ff6146d3ae.herokuapp.com)
